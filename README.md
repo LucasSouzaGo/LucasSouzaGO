@@ -5,12 +5,11 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasSouzaGO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas github stats" /> 
 
-    
+
+  
 &nbsp;    
 
     
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouzaGO&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-    </div>    
 
 ## Contato de trabalho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonzalez-b99a6b264/)
@@ -32,7 +31,10 @@
     <img align="center" alt=mysql src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit"
          </div><br/>
    
-
+&nbsp;
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouzaGO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     
 &nbsp;
